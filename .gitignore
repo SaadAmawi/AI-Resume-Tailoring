@@ -1,0 +1,4 @@
+.env
+Prompts.py
+_pycache_
+*.docx
